@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Lawrence First Blog : Welcome to my blog!
 ---
